@@ -7,7 +7,7 @@ This repository contains all the labs from the *IBM Developing Back-End Apps wit
 1. [Lab 1: First Server with Server-Side JavaScript](Lab1/README.md)
 2. [Lab 2: Promise Callback](Lab2/README.md)
 3. [Lab 3: Async Callback Programing](Lab3/README.md)
-4. [Lab 4: Book Review Application Project](Lab4/README.md)
+4. [Lab 4: CRUD Operations with Node.js and Express](Lab4/README.md)
 
 ---
 
