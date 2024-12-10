@@ -10,6 +10,7 @@ This repository contains all the labs from the *IBM Developing Back-End Apps wit
 4. [Lab 4: CRUD Operations with Node.js and Express](Lab4/README.md)
 5. [Lab 5: Express Server](Lab5/README.md)
 6. [Practice_Project:  Friends List Application Using Express Server with JWT](Practice_Project/README.md)
+7. [Final_Project: Book Review Application](Final_Project/README.md)
 
 ---
 
